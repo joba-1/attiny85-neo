@@ -18,7 +18,7 @@ Now flashing begins automatically.
 After flashing is complete, sketch will start: 
 Short blink of onboard LED and Neopixels go white, then rainbow animation starts
 
-## Wiring of Digispark thumb and Neopixel
+## Wiring of Digistump and Neopixel
 
     Digispark Neopixel
     5V ------ +
